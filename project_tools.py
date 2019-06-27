@@ -1,4 +1,5 @@
 import numpy as np
+import os
 
 def make_pt_fl(o2_loc, o2_mixing_ratio, place, cold_trap=0.1):
 
@@ -35,7 +36,7 @@ def make_pt_fl(o2_loc, o2_mixing_ratio, place, cold_trap=0.1):
 
     np.savetxt(place, new_pt_data, delimiter='   ', header=header, comments='')
 
-def run_smart(pt_fl, place, R=100000):
+def run_smart2(pt_fl, place, R=100000):
 
     # make the directory for the smart run
     try:
