@@ -1,0 +1,175 @@
+/gscratch/vsm/mcurr/photochem_smart/smart/extra/read_photo.py:90: VisibleDeprecationWarning: Reading unicode strings without specifying the encoding argument is deprecated. Set the encoding, use None for the system default.
+  input = np.genfromtxt(infile, dtype=None)
+Writing runlblabc script for H2O
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_h2o_6666_25000cm.scr
+Writing runlblabc script for CO2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co2_6666_25000cm.scr
+Writing runlblabc script for O3
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o3_6666_25000cm.scr
+Writing runlblabc script for CO
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co_6666_25000cm.scr
+Writing runlblabc script for CH4
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_ch4_6666_25000cm.scr
+Writing runlblabc script for O2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o2_6666_25000cm.scr
+Using multiprocessing to generate .abs files for gases
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o3_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o3_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_o2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_co2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_ch4_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_ch4_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_h2o_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runlbl_case_h2o_6666_25000cm.scr complete!
+Calling SMART for run: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runsmart_case_6666_25000cm.scr
+SUCCESS: SMART run complete: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_04520353656360243/runsmart_case_6666_25000cm.scr
+/gscratch/vsm/mcurr/photochem_smart/smart/extra/read_photo.py:90: VisibleDeprecationWarning: Reading unicode strings without specifying the encoding argument is deprecated. Set the encoding, use None for the system default.
+  input = np.genfromtxt(infile, dtype=None)
+Writing runlblabc script for H2O
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_h2o_6666_25000cm.scr
+Writing runlblabc script for CO2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co2_6666_25000cm.scr
+Writing runlblabc script for O3
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o3_6666_25000cm.scr
+Writing runlblabc script for CO
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co_6666_25000cm.scr
+Writing runlblabc script for CH4
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_ch4_6666_25000cm.scr
+Writing runlblabc script for O2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o2_6666_25000cm.scr
+Using multiprocessing to generate .abs files for gases
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o3_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o3_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_o2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_co2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_ch4_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_ch4_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_h2o_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runlbl_case_h2o_6666_25000cm.scr complete!
+Calling SMART for run: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runsmart_case_6666_25000cm.scr
+SUCCESS: SMART run complete: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_09236708571873861/runsmart_case_6666_25000cm.scr
+/gscratch/vsm/mcurr/photochem_smart/smart/extra/read_photo.py:90: VisibleDeprecationWarning: Reading unicode strings without specifying the encoding argument is deprecated. Set the encoding, use None for the system default.
+  input = np.genfromtxt(infile, dtype=None)
+Writing runlblabc script for H2O
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_h2o_6666_25000cm.scr
+Writing runlblabc script for CO2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co2_6666_25000cm.scr
+Writing runlblabc script for O3
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o3_6666_25000cm.scr
+Writing runlblabc script for CO
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co_6666_25000cm.scr
+Writing runlblabc script for CH4
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_ch4_6666_25000cm.scr
+Writing runlblabc script for O2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o2_6666_25000cm.scr
+Using multiprocessing to generate .abs files for gases
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o3_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o3_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_o2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_co2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_ch4_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_ch4_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_h2o_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runlbl_case_h2o_6666_25000cm.scr complete!
+Calling SMART for run: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runsmart_case_6666_25000cm.scr
+SUCCESS: SMART run complete: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_6210169418915616/runsmart_case_6666_25000cm.scr
+/gscratch/vsm/mcurr/photochem_smart/smart/extra/read_photo.py:90: VisibleDeprecationWarning: Reading unicode strings without specifying the encoding argument is deprecated. Set the encoding, use None for the system default.
+  input = np.genfromtxt(infile, dtype=None)
+Writing runlblabc script for H2O
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_h2o_6666_25000cm.scr
+Writing runlblabc script for CO2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co2_6666_25000cm.scr
+Writing runlblabc script for O3
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o3_6666_25000cm.scr
+Writing runlblabc script for CO
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co_6666_25000cm.scr
+Writing runlblabc script for CH4
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_ch4_6666_25000cm.scr
+Writing runlblabc script for O2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o2_6666_25000cm.scr
+Using multiprocessing to generate .abs files for gases
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o3_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o3_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_o2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_co2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_ch4_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_ch4_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_h2o_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runlbl_case_h2o_6666_25000cm.scr complete!
+Calling SMART for run: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runsmart_case_6666_25000cm.scr
+SUCCESS: SMART run complete: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_0020433597178569417/runsmart_case_6666_25000cm.scr
+/gscratch/vsm/mcurr/photochem_smart/smart/extra/read_photo.py:90: VisibleDeprecationWarning: Reading unicode strings without specifying the encoding argument is deprecated. Set the encoding, use None for the system default.
+  input = np.genfromtxt(infile, dtype=None)
+Writing runlblabc script for H2O
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_h2o_6666_25000cm.scr
+Writing runlblabc script for CO2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co2_6666_25000cm.scr
+Writing runlblabc script for O3
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o3_6666_25000cm.scr
+Writing runlblabc script for CO
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co_6666_25000cm.scr
+Writing runlblabc script for CH4
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_ch4_6666_25000cm.scr
+Writing runlblabc script for O2
+Wrote runlblabc script: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o2_6666_25000cm.scr
+Using multiprocessing to generate .abs files for gases
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o3_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o3_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_o2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_ch4_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_ch4_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co2_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_co2_6666_25000cm.scr complete!
+.abs file does not already exist
+generating .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_h2o_6666_25000cm.scr
+SUCCESS: .abs file for /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runlbl_case_h2o_6666_25000cm.scr complete!
+Calling SMART for run: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runsmart_case_6666_25000cm.scr
+SUCCESS: SMART run complete: /gscratch/vsm/mcurr/abiotic_oxygen/vary_cold_trap/smart_outputs/cold_trap_0_01373823795883263/runsmart_case_6666_25000cm.scr

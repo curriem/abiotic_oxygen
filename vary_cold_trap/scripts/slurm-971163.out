@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "run_experiment.py", line 8, in <module>
+    project_tools.run_smart(args.pt_fl, args.place)
+NameError: name 'args' is not defined
+Traceback (most recent call last):
+  File "run_experiment.py", line 8, in <module>
+    project_tools.run_smart(args.pt_fl, args.place)
+NameError: name 'args' is not defined
+Traceback (most recent call last):
+  File "run_experiment.py", line 8, in <module>
+    project_tools.run_smart(args.pt_fl, args.place)
+NameError: name 'args' is not defined
+Traceback (most recent call last):
+  File "run_experiment.py", line 8, in <module>
+    project_tools.run_smart(args.pt_fl, args.place)
+NameError: name 'args' is not defined
+Traceback (most recent call last):
+  File "run_experiment.py", line 8, in <module>
+    project_tools.run_smart(args.pt_fl, args.place)
+NameError: name 'args' is not defined
