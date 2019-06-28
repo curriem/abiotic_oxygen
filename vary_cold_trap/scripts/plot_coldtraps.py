@@ -69,6 +69,6 @@ for pt_fl in cold_trap_pts:
     plot_rad_wl = rad_wl[rad_wlrange]
     plot_trnst_wl = trnst_wl[trnst_wlrange]
 
-    plt.plot(plot_trnst_wl, plot_trnst_flux)
-
+    plt.plot(plot_trnst_wl, plot_trnst_flux, label=pt_name)
+plt.legend()
 plt.savefig('testing.png')
