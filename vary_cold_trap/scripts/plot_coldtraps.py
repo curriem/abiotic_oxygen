@@ -57,14 +57,18 @@ for pt_fl in cold_trap_pts[:1]:
     trnst_data = smart.readsmart.Trnst(trnst_fl)
     trnst_flux = trnst_data.tdepth * 1e6
 
-    wl = trnst_data.lam
+    trnst_wl = trnst_data.lam
+    rad_wl = rad_data.lam
 
-    wlrange = (wl > band_wlmin) & (wl < band_wlmax)
+    rad_wlrange = (rad_wl > band_wlmin) & (rad_wl < band_wlmax)
+    trnst_wlrange = (trnst_wl > band_wlmin) & (trnst_wl < band_wlmax)
 
-    plot_rad_flux = rad_flux[wlrange]
-    plot_trnst_flux = trnst_flux[wlrange]
-    plot_wl = wl[wlrange]
+    plot_rad_flux = rad_flux[rad_wlrange]
+    plot_trnst_flux = trnst_flux[trnst_wlrange]
 
-    plt.plot(plot_wl, plot_rad_flux)
+    plot_rad_wl = rad_wl[rad_wlrange]
+    plot_trnst_wl = trnst_wl[trnst_wlrange]
+
+    plt.plot(plot_trnst_wl, plot_trnst_flux)
 
 plt.savefig('testing.png')
