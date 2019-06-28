@@ -1,6 +1,5 @@
 import numpy as np
 import os
-
 def make_pt_fl(o2_loc, o2_mixing_ratio, place, cold_trap=0.1):
 
     ref_pt = '../../earth_standard_icrccm_vmix.pt'
