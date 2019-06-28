@@ -45,7 +45,7 @@ band_wlmin = 1.26
 band_wlmax = 1.28
 
 plt.figure()
-for pt_fl in cold_trap_pts[:1]:
+for pt_fl in cold_trap_pts:
     pt_name = pt_fl.split('/')[-1]
     pt_name = pt_name.split('.')[0]
 
