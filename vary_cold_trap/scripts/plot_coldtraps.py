@@ -57,7 +57,7 @@ for pt_fl in cold_trap_pts[:1]:
     trnst_data = smart.readsmart.Trnst(trnst_fl)
     trnst_flux = trnst_data.tdepth * 1e6
 
-    wl = trnst_flux.lam
+    wl = trnst_data.lam
 
     wlrange = (wl > band_wlmin) & (wl < band_wlmax)
 
