@@ -41,7 +41,7 @@ def make_pt_fl(o2_loc, o2_mixing_ratio, place, cold_trap=0.1):
 
     np.savetxt(place, new_pt_data, delimiter='   ', header=header, comments='')
 
-def run_smart(pt_fl, place, R=100000):
+def run_smart(pt_fl, place, wlmin=0.4 , wlmax=1.5, R=100000):
 
     # make the directory for the smart run
     try:
@@ -76,8 +76,6 @@ def run_smart(pt_fl, place, R=100000):
 
     sim.set_run_in_place(place=place)
 
-    wlmin = 0.4
-    wlmax = 1.5
     sim.smartin.minwn = 1e4 / wlmax
     sim.smartin.maxwn = 1e4 / wlmin
     sim.lblin.minwn = 1e4 / wlmax
@@ -90,7 +88,7 @@ def run_smart(pt_fl, place, R=100000):
     sim.smartin.irefract = 1 # turn on refraction
 
  # modify resolution of spectrum
-    delt_nu = 1e4 / ((wlmax - wlmin)/2 * R)
+    delt_nu = 1e4 / ((wlmax + wlmin)/2 * R)
     sim.smartin.FWHM = delt_nu
     sim.smartin.sample_res = delt_nu
 
